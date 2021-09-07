@@ -70,6 +70,7 @@ function key(){
 ## Constraints:
 
 * Lines of Code Should Not be greater than 10 lines (After formatting the code with 2 indentions).
+* You cannot make changes in the primitive structures.
 * The code would be run in the console of the `chrome Dev Tools` with version `92.0.4515.159 (Official Build) (64-bit) (cohort: Stable)` on the inspected `https://google.com` site.
 
 ## Submission
