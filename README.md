@@ -65,12 +65,19 @@ function key(){
 // "number"
 ```
 
+the condition is
+```js
+console.log(A)
+console.log(typeof(B))
+// Here A == B && A === B
+```
+
 > The code will be also tested by a human for correct validation.
 
 ## Constraints:
 
 * Lines of Code Should Not be greater than 10 lines (After formatting the code with 2 indentions).
-* You cannot make changes in the primitive structures.
+* You cannot make changes in the primitive and native structures.
 * The code would be run in the console of the `chrome Dev Tools` with version `92.0.4515.159 (Official Build) (64-bit) (cohort: Stable)` on the inspected `https://google.com` site.
 
 ## Submission
