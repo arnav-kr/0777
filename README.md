@@ -14,7 +14,7 @@ You go a bit closer to the source and in the Pass Lock Display you see
 ```javascript
 function key(){
   var passKey;
-  // Write The Javascript Here and Return The Key
+  // Write The Javascript Here and Log as Following
   console.log(passKey);
   console.log(typeof(passKey));
 }
@@ -67,8 +67,8 @@ function key(){
 
 the condition is
 ```js
-console.log(A)
-console.log(typeof(B))
+console.log(A) // Logs 0777 to the Console
+console.log(typeof(B)) // Logs number" to the Console
 // Here A == B && A === B
 ```
 
@@ -76,12 +76,22 @@ console.log(typeof(B))
 
 ## Constraints:
 
-* Lines of Code Should Not be greater than 10 lines (After formatting the code with 2 indentions).
-* You cannot make changes in the primitive and native structures.
-* The code would be run in the console of the `chrome Dev Tools` with version `92.0.4515.159 (Official Build) (64-bit) (cohort: Stable)` on the inspected `https://google.com` site.
+* Lines of Code Should Not be greater than 10 lines (After formatting the code with 2 Indentation).
+* You cannot make changes in the primitive and native structures of javascript and also cannot interfare with prototypes.
+* The code would be run in the console of the `chrome Dev Tools` with version `96.0.4664.45 (Official Build) (64-bit) JavaScript	V8 9.6.180.12` on the inspected `https://google.com` site.
 
 ## Submission
 
 Submit your code by the following google form:
 
 https://forms.gle/1ZjKJXdLW34h9ZUj8
+
+Or mail your solution on the Following Mail directly (in a `.txt` file or in plain text): 
+
+0777js@googlegroups.com
+
+For any queries you can mail me on arnav-kumar@googlegroups.com
+
+> **Note:** If you have already solved the Challange then you are requested to not share your solutions with others
+
+## The Second person (Obviously the one after me) who will solve the challange will get an interesting reward! 🏆🎖️
