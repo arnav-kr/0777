@@ -1,6 +1,16 @@
 <html>
 
 <head>
+  <script>
+    window.ZeroMdConfig = {
+      prismUrl: 'https://cdn.jsdelivr.net/npm/prismjs@1.25.0/prism.min.js',
+      cssUrls: [
+        'https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@5/github-markdown-dark.css',
+        'https://cdn.jsdelivr.net/npm/prismjs@1.25.0/themes/prism-tomorrow.min.css'
+      ],
+      hostCss: ':host{display:inline-block;}'
+    }
+  </script>
     <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
     <meta charset="utf-8">
 </head>
@@ -8,7 +18,9 @@
 <body>
     <div style="width:70%; margin:0 auto;" id="mdcontainer">
       <zero-md src="https://raw.githubusercontent.com/arnav-kr/0777/main/README.md">
-
+        <template>
+         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@5/github-markdown.css">
+        </template>
       </zero-md>
     </div>
 </body>
