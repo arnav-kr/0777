@@ -1,6 +1,6 @@
-# The 0777 JS Challange
+# The 0777 JS Challenge
 
-### Welcome to the `0777` JavaScript Challange!
+### Welcome to the `0777` JavaScript Challenge!
 
 ## Story
 
@@ -92,6 +92,6 @@ Or mail your solution on the Following Mail directly (in a `.txt` file or in pla
 
 For any queries you can mail me on arnav-kumar@googlegroups.com
 
-> **Note:** If you have already solved the Challange then you are requested to not share your solutions with others
+> **Note:** If you have already solved the Challenge then you are requested to not share your solutions with others
 
-## The Second person (Obviously the one after me) who will solve the challange will get an interesting reward! 🏆🎖️
+## The Second person (Obviously the one after me) who will solve the challenge will get an interesting reward! 🏆🎖️
