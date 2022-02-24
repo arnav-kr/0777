@@ -78,7 +78,7 @@ console.log(typeof(B)) // Logs number" to the Console
 
 * Lines of Code Should Not be greater than 10 lines (After formatting the code with 2 Indentation).
 * You cannot make changes in the primitive and native structures of javascript and also cannot interfare with prototypes.
-* The code would be run in the console of the `chrome Dev Tools` with version `96.0.4664.45 (Official Build) (64-bit) JavaScript	V8 9.6.180.12` on the inspected `https://google.com` site.
+* The code would be run in the console of the `chrome Dev Tools` on the inspected `https://google.com` site.
 
 ## Submission
 
