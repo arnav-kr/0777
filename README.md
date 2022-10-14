@@ -80,6 +80,11 @@ console.log(typeof(B)) // Logs number" to the Console
 * You cannot make changes in the primitive and native structures of javascript and also cannot interfare with prototypes.
 * The code would be run in the console of the `chrome Dev Tools` on the inspected `https://google.com` site.
 
+## Winners 🏆🎖️
+
+N/A (noone solved yet still counting...)
+
+
 ## Submission
 
 Submit your code by the following google form:
@@ -94,4 +99,4 @@ For any queries you can mail me on arnav-kumar@googlegroups.com
 
 > **Note:** If you have already solved the Challenge then you are requested to not share your solutions with others
 
-## The Second person (Obviously the one after me) who will solve the challenge will get an interesting reward! 🏆🎖️
+### The Second person (Obviously the one after me) who will solve the challenge will get an interesting reward! 🏆🎖️
