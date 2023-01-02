@@ -49,6 +49,7 @@ You have to log the value such that when logged to the console the output should
 In Points:
 * console output should be `0777`
 * typeof the value should be `number`
+* Stuff Passed with `console.log` and with the `typeof` should either be logically same or visually same 
 
 ## Test Cases
 
