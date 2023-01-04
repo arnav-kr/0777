@@ -83,8 +83,10 @@ console.log(typeof(B)) // Logs number" to the Console
 
 ## Winners 🏆🎖️
 
-N/A (noone solved yet still counting...)
+<a href="https://github.com/Tupiet"><img alt="@Tupiet" src="https://user-images.githubusercontent.com/72879799/210605382-804ec37e-e731-416c-8894-4a03d14bd50c.png" width="250px"/></a>
 
+
+GitHub: [@Tupiet](https://github.com/Tupiet)
 
 ## Submission
 
@@ -100,4 +102,4 @@ For any queries you can mail me on arnav-kumar@googlegroups.com
 
 > **Note:** If you have already solved the Challenge then you are requested to not share your solutions with others
 
-### The Second person (Obviously the one after me) who will solve the challenge will get an interesting reward! 🏆🎖️
+### The one to solve the challenge will get an interesting reward! 🏆🎖️ (yeah still applicable)
